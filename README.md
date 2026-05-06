@@ -184,6 +184,8 @@ SOD_Project/
 ├── checkpoints/
 │   ├── baseline_20ep_best.pth
 │   └── improved_augmented_20ep_best.pth
+├── report/
+│   ├── Final_Report.pdf
 
 ```
 
